@@ -2,8 +2,8 @@
 
 to install:
 
-dotnet restore
+```dotnet restore```
 
 to run:
 
-dotnet run Program.cs
+```dotnet run Program.cs```
