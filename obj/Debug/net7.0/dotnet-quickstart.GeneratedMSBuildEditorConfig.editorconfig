@@ -9,4 +9,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dotnet_quickstart
-build_property.ProjectDir = /Users/blin/NovuStuff/dotnet-quickstart/
+build_property.ProjectDir = /Users/blin/NovuStuff/novu-dotnet-quickstart/
