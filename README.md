@@ -27,7 +27,7 @@ Your project needs to be configured with the API key from [your Novu dashboard](
 
 ## Run the Quickstart
 
-Before continuing, please ensure you have [.NET](https://dotnet.microsoft.com/en-us/download/dotnet-framework)Core 2.0+, .NET Framework of 4.6.1+. and the [dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/) installed and accessible from your shell. These are required.
+Before continuing, please ensure you have [.NET](https://dotnet.microsoft.com/en-us/download/dotnet-framework) Core 2.0+, .NET Framework of 4.6.1+. and the [dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/) installed and accessible from your shell. These are required.
 
 Next, use the following command to install the necessary dependencies:
 
