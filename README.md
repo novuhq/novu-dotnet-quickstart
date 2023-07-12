@@ -7,7 +7,7 @@
   </a>
 </div>
 
-# Novu PHP SDK Quickstart
+# Novu .NET SDK Quickstart
 
 This sample demonstrates how to trigger notifications from a [.NET](https://dotnet.microsoft.com/en-us/download/dotnet-framework) app using [Novu](https://novu.co).
 
