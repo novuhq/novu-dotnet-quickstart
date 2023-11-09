@@ -1,0 +1,58 @@
+repo_name: novuhq/novu-dotnet-quickstart
+report_id: 1830fab1e3dc1b8da1bb08490ece8d7b
+repo_type: Public
+timestamp: '2023-11-09T15:13:17+00:00'
+requested_by: benlin1994
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source: Repo Metadata
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: dotnet-quickstart.csproj
+  detection_source: dotnet-quickstart.csproj
+  last_updated_by: benlin1994
+  last_updated_on: 2023-07-11 13:38:39.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: dotnet-quickstart.csproj
+  detection_source: dotnet-quickstart.csproj
+  last_updated_by: benlin1994
+  last_updated_on: 2023-07-11 13:38:39.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
