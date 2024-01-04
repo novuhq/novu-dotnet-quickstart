@@ -1,7 +1,8 @@
 repo_name: novuhq/novu-dotnet-quickstart
 report_id: 1830fab1e3dc1b8da1bb08490ece8d7b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:13:17+00:00'
+timestamp: '2024-01-04T14:58:20+00:00'
 requested_by: benlin1994
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/novuhq/novu-dotnet-quickstart
   detection_source: Repo Metadata
 - name: ".NET Core"
   description: An Open Source, General-Purpose Development Platform Maintained by
@@ -28,7 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: dotnet-quickstart.csproj
+  detection_source_url: https://github.com/novuhq/novu-dotnet-quickstart/blob/main/dotnet-quickstart.csproj
   detection_source: dotnet-quickstart.csproj
   last_updated_by: benlin1994
   last_updated_on: 2023-07-11 13:38:39.000000000 Z
@@ -43,7 +45,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: dotnet-quickstart.csproj
+  detection_source_url: https://github.com/novuhq/novu-dotnet-quickstart/blob/main/dotnet-quickstart.csproj
   detection_source: dotnet-quickstart.csproj
   last_updated_by: benlin1994
   last_updated_on: 2023-07-11 13:38:39.000000000 Z
@@ -55,4 +57,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/novuhq/novu-dotnet-quickstart
   detection_source: Repo Metadata
